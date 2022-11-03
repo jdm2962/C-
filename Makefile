@@ -8,3 +8,6 @@ guessNumber:
 
 array_mc:
 	$(cc) $(flags) out array_manipulation_challenge.cpp
+
+calculator:
+	$(cc) $(flags) out calculator.cpp
